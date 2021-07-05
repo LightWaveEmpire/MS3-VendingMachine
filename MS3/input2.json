@@ -1,0 +1,23 @@
+{
+	"config": {
+		"rows": 4,
+		"columns": "8"
+	},
+	"items": [{
+		"name": "Snickers",
+		"amount": 10,
+		"price": "$1.35"
+	}, {
+		"name": "Hersheys",
+		"amount": 10,
+		"price": "$2.25"
+	}, {
+		"name": "Hersheys Almond",
+		"amount": 10,
+		"price": "$1.80"
+	}, {
+		"name": "Hersheys Special Dark",
+		"amount": 10,
+		"price": "$1.75"
+	}]
+}
